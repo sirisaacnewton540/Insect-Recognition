@@ -41,7 +41,7 @@ This repository contains a project for detecting and classifying insects using a
     - Dataset: `data/`
     - Pre-trained Model: `insect_classifier.h5`
 
-    These files can be accessed from the folder named `Links` and should be added to the suitable path as specified below.
+    These files can be accessed from the file named `Dataset_and_Pre_Trained_Model.md` and should be added to the suitable path as specified below.
 
 3. Ensure the dataset and pre-trained model are placed in the correct directories:
     - `data/` directory should contain subfolders for each insect category (Butterfly, Dragonfly, Grasshopper, Ladybird, Mosquito).
