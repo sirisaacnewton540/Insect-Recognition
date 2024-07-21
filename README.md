@@ -278,8 +278,6 @@ insect-detection-system/
 ### Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
 
-### License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ### Acknowledgements
 - This project uses [TensorFlow](https://www.tensorflow.org/) for the deep learning model.
