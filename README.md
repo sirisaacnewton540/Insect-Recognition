@@ -4,6 +4,7 @@ This repository contains a project for detecting and classifying insects using a
 
 ## Table of Contents
 - [Features](#features)
+- [Results](#results)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -15,7 +16,6 @@ This repository contains a project for detecting and classifying insects using a
 - [GUI Implementation](#gui-implementation)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Features
@@ -23,6 +23,15 @@ This repository contains a project for detecting and classifying insects using a
 - Uses a Convolutional Neural Network (CNN) model for classification.
 - Supports re-uploading images for classification.
 - User-friendly GUI for selecting between real-time detection and image upload.
+
+## Results
+![Screenshot (639)](https://github.com/user-attachments/assets/4bfb99d5-6db2-4c72-8607-049e0929ccaf)
+![Screenshot (638)](https://github.com/user-attachments/assets/6fb0cdf9-48ae-45e8-b18b-1d6e46876c94)
+
+![Screenshot (637)](https://github.com/user-attachments/assets/eaab3d35-124c-49de-8ffa-64a18146e916)
+![Screenshot (640)](https://github.com/user-attachments/assets/7f2fa48b-6475-4084-8836-81ea9d931976)
+![Screenshot (641)](https://github.com/user-attachments/assets/53eb96fc-a78c-4271-89eb-276064b8bed2)
+
 
 ## Requirements
 - Python 3.x
