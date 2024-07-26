@@ -1,6 +1,6 @@
 # Insect Detection System
 
-This repository contains a project for detecting and classifying insects using a deep learning model. The system can classify insects from either real-time video feed or uploaded images. The project uses TensorFlow for the deep learning model and OpenCV for handling real-time video feeds and image processing. Additionally, a graphical user interface (GUI) is implemented using Tkinter to provide a user-friendly experience for selecting between real-time detection and image upload.
+This repository contains a project for detecting and classifying insects using a deep learning model. The system can classify insects from either real-time video feed or uploaded images. The project uses TensorFlow for the deep learning model and OpenCV for handling real-time video feeds and image processing. Additionally, a graphical user interface (GUI) is implemented using Tkinter to provide a user-friendly experience for **selecting between real-time detection and image upload**.
 
 ## Table of Contents
 - [Features](#features)
