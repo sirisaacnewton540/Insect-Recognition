@@ -46,7 +46,7 @@ This repository contains a project for detecting and classifying insects using a
     pip install tensorflow opencv-python matplotlib tk
     ```
 
-2. Download the pre-trained model:
+2. Download the data and pre-trained model from **Dataset_and_Pre_Trained_Model.md** file:
     - Dataset: `data/`
     - Pre-trained Model: `insect_classifier.h5`
 
